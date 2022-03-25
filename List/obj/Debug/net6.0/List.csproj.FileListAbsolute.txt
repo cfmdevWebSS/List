@@ -1,0 +1,15 @@
+C:\Users\cfmde\source\repos\code\Collections\List\bin\Debug\net6.0\List.exe
+C:\Users\cfmde\source\repos\code\Collections\List\bin\Debug\net6.0\List.deps.json
+C:\Users\cfmde\source\repos\code\Collections\List\bin\Debug\net6.0\List.runtimeconfig.json
+C:\Users\cfmde\source\repos\code\Collections\List\bin\Debug\net6.0\List.dll
+C:\Users\cfmde\source\repos\code\Collections\List\bin\Debug\net6.0\ref\List.dll
+C:\Users\cfmde\source\repos\code\Collections\List\bin\Debug\net6.0\List.pdb
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\List.dll
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\ref\List.dll
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\List.pdb
+C:\Users\cfmde\source\repos\code\Collections\List\obj\Debug\net6.0\List.genruntimeconfig.cache
